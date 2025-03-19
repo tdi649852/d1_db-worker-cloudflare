@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "mute-hill-9d48",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "0dbf0314-a641-4c80-919f-e330330c6069",
+      "database_name": "snowy-wood-d690-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
